@@ -1,0 +1,139 @@
+
+* {
+    margin: 0;
+    font-family: Arial;
+    border:border-box;
+    
+    
+   
+    
+}
+.Navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    justify-content: space-evenly;
+    
+}
+.Nav-logo{
+    height: 50px;
+    width: 100px;
+    display: flex
+}
+.logo{
+    background-image: url("amazon_logo.png");
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+}
+.address{
+    margin-left: 10px;
+}
+.karan{
+    color:#cccccc;
+    margin-left: 16px;
+    font-size: 14px;
+}
+.karan1{
+    display: flex;
+    align-items: center;
+}
+.karan2{
+    margin-left: 5px;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 1.5px solid white
+}
+
+
+.searchbar{
+    height: 40px;
+    width: 620px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    border-radius: 4px;
+}
+.option{
+    height: 40px;
+    width: 50px;
+    text-align: center;
+    background-color: #f3f3f3;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+    
+}
+.Search-input{
+    
+    
+    width: 100%;
+    font-size: 1rem;
+   
+    background-color: white;
+    border: none;
+      
+}
+.karan3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background-color: #febd68;
+    color: #0f1111;
+    font-size: 1.5rem;
+}
+.country{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flag{
+    margin-top: 10px;
+    background-image: url("ind flag.png");
+    height: 30px;
+    width: 30px;
+    background-size: 100%;
+    background: cover;
+    background-repeat: no-repeat;
+}
+.option1{
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+.signin{
+    color: white;
+    
+}
+.option3{
+    background-color: black;
+    color: white;
+    border: none;
+    font-weight: 900;
+}
+.signin1{
+    margin-left: 4px;
+    font-size: small;
+}
+.return1{
+    color: #febd68;
+    background-color: aqua;
+}
+.return2{
+    color: #febd68;
+    background-color: aqua;
+}
+
+.navbar2{
+    height: 80px;
+    background-color: blue;
+}
