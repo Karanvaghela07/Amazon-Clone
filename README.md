@@ -23,4 +23,4 @@ A responsive web application replicating the user interface of the Amazon e-comm
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Amazon-Clone.git
+   git clone https://github.com/Karanvaghela07/Amazon Clone.git
